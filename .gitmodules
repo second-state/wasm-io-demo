@@ -1,0 +1,3 @@
+[submodule "component-model-tests"]
+	path = component-model-tests
+	url = https://github.com/second-state/component-model-tests.git
